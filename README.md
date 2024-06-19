@@ -3,6 +3,6 @@ Esse projeto foi elaborado pela Digital innovation One dentro do bootcamp Java S
 
 ## Recursos disponíveis neste projeto
 
-*Importação de Bibliotecas 
-*Interaçaõ com o usuário através do Terminal.
+* Importação de Bibliotecas
+* Interaçaõ com o usuário através do Terminal.
 
